@@ -12,3 +12,4 @@ D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\refint\GreetingCo
 D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.pdb
 D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.genruntimeconfig.cache
 D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\ref\GreetingConsoleApp.dll
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.sourcelink.json
