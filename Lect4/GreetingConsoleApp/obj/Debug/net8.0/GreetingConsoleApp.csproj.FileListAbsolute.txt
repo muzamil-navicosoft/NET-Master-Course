@@ -1,0 +1,14 @@
+D:\NET Master Course\Lect4\GreetingConsoleApp\bin\Debug\net8.0\GreetingConsoleApp.exe
+D:\NET Master Course\Lect4\GreetingConsoleApp\bin\Debug\net8.0\GreetingConsoleApp.deps.json
+D:\NET Master Course\Lect4\GreetingConsoleApp\bin\Debug\net8.0\GreetingConsoleApp.runtimeconfig.json
+D:\NET Master Course\Lect4\GreetingConsoleApp\bin\Debug\net8.0\GreetingConsoleApp.dll
+D:\NET Master Course\Lect4\GreetingConsoleApp\bin\Debug\net8.0\GreetingConsoleApp.pdb
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.AssemblyInfoInputs.cache
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.AssemblyInfo.cs
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.dll
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\refint\GreetingConsoleApp.dll
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.pdb
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\GreetingConsoleApp.genruntimeconfig.cache
+D:\NET Master Course\Lect4\GreetingConsoleApp\obj\Debug\net8.0\ref\GreetingConsoleApp.dll
