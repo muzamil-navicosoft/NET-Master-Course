@@ -1,0 +1,15 @@
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\bin\Debug\net8.0\MethodHomeWork.exe
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\bin\Debug\net8.0\MethodHomeWork.deps.json
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\bin\Debug\net8.0\MethodHomeWork.runtimeconfig.json
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\bin\Debug\net8.0\MethodHomeWork.dll
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\bin\Debug\net8.0\MethodHomeWork.pdb
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.AssemblyInfoInputs.cache
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.AssemblyInfo.cs
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.csproj.CoreCompileInputs.cache
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.sourcelink.json
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.dll
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\refint\MethodHomeWork.dll
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.pdb
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\MethodHomeWork.genruntimeconfig.cache
+D:\NET Master Course\lec9\MethodHomeWork\MethodHomeWork\obj\Debug\net8.0\ref\MethodHomeWork.dll

@@ -1,0 +1,15 @@
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\bin\Debug\net8.0\AgeCalculaterIn25.exe
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\bin\Debug\net8.0\AgeCalculaterIn25.deps.json
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\bin\Debug\net8.0\AgeCalculaterIn25.runtimeconfig.json
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\bin\Debug\net8.0\AgeCalculaterIn25.dll
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\bin\Debug\net8.0\AgeCalculaterIn25.pdb
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.AssemblyInfoInputs.cache
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.AssemblyInfo.cs
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.sourcelink.json
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.dll
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\refint\AgeCalculaterIn25.dll
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.pdb
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\AgeCalculaterIn25.genruntimeconfig.cache
+D:\NET Master Course\Let5\AgeCalculaterIn25\AgeCalculaterIn25\obj\Debug\net8.0\ref\AgeCalculaterIn25.dll

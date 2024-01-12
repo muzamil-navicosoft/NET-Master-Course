@@ -1,0 +1,15 @@
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\bin\Debug\net8.0\DictonaryList.exe
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\bin\Debug\net8.0\DictonaryList.deps.json
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\bin\Debug\net8.0\DictonaryList.runtimeconfig.json
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\bin\Debug\net8.0\DictonaryList.dll
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\bin\Debug\net8.0\DictonaryList.pdb
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.AssemblyInfoInputs.cache
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.AssemblyInfo.cs
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.sourcelink.json
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.dll
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\refint\DictonaryList.dll
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.pdb
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\DictonaryList.genruntimeconfig.cache
+D:\NET Master Course\Lec8\dictornay\DictonaryList\DictonaryList\obj\Debug\net8.0\ref\DictonaryList.dll

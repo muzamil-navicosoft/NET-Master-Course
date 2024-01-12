@@ -1,0 +1,15 @@
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\bin\Debug\net8.0\GreetTimAndStudent.exe
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\bin\Debug\net8.0\GreetTimAndStudent.deps.json
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\bin\Debug\net8.0\GreetTimAndStudent.runtimeconfig.json
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\bin\Debug\net8.0\GreetTimAndStudent.dll
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\bin\Debug\net8.0\GreetTimAndStudent.pdb
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.AssemblyInfoInputs.cache
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.AssemblyInfo.cs
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.sourcelink.json
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.dll
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\refint\GreetTimAndStudent.dll
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.pdb
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\GreetTimAndStudent.genruntimeconfig.cache
+D:\NET Master Course\Let6\GreetTimAndStudent\GreetTimAndStudent\obj\Debug\net8.0\ref\GreetTimAndStudent.dll

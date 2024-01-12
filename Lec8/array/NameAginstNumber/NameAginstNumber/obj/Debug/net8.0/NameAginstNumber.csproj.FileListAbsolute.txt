@@ -1,0 +1,15 @@
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\bin\Debug\net8.0\NameAginstNumber.exe
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\bin\Debug\net8.0\NameAginstNumber.deps.json
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\bin\Debug\net8.0\NameAginstNumber.runtimeconfig.json
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\bin\Debug\net8.0\NameAginstNumber.dll
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\bin\Debug\net8.0\NameAginstNumber.pdb
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.AssemblyInfoInputs.cache
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.AssemblyInfo.cs
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.sourcelink.json
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.dll
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\refint\NameAginstNumber.dll
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.pdb
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\NameAginstNumber.genruntimeconfig.cache
+D:\NET Master Course\Lec8\array\NameAginstNumber\NameAginstNumber\obj\Debug\net8.0\ref\NameAginstNumber.dll

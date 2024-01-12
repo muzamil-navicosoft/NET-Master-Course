@@ -1,0 +1,15 @@
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\bin\Debug\net8.0\StudentCounter.exe
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\bin\Debug\net8.0\StudentCounter.deps.json
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\bin\Debug\net8.0\StudentCounter.runtimeconfig.json
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\bin\Debug\net8.0\StudentCounter.dll
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\bin\Debug\net8.0\StudentCounter.pdb
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.AssemblyInfoInputs.cache
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.AssemblyInfo.cs
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.sourcelink.json
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.dll
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\refint\StudentCounter.dll
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.pdb
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\StudentCounter.genruntimeconfig.cache
+D:\NET Master Course\Lec8\list\StudentCounter\StudentCounter\obj\Debug\net8.0\ref\StudentCounter.dll

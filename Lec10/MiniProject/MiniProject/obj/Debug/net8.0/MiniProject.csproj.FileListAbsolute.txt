@@ -1,0 +1,15 @@
+D:\NET Master Course\Lec10\MiniProject\MiniProject\bin\Debug\net8.0\MiniProject.exe
+D:\NET Master Course\Lec10\MiniProject\MiniProject\bin\Debug\net8.0\MiniProject.deps.json
+D:\NET Master Course\Lec10\MiniProject\MiniProject\bin\Debug\net8.0\MiniProject.runtimeconfig.json
+D:\NET Master Course\Lec10\MiniProject\MiniProject\bin\Debug\net8.0\MiniProject.dll
+D:\NET Master Course\Lec10\MiniProject\MiniProject\bin\Debug\net8.0\MiniProject.pdb
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.AssemblyInfoInputs.cache
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.AssemblyInfo.cs
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.csproj.CoreCompileInputs.cache
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.sourcelink.json
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.dll
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\refint\MiniProject.dll
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.pdb
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\MiniProject.genruntimeconfig.cache
+D:\NET Master Course\Lec10\MiniProject\MiniProject\obj\Debug\net8.0\ref\MiniProject.dll
